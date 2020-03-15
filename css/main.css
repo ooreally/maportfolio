@@ -1,0 +1,35 @@
+
+.site-header
+{
+		background-color: #1bbc9b;
+		color: #ecfdf9;
+		height: 110vh;
+		font-family: monospace;
+		display:flex;
+		flex-direction:column;
+		justify-content:center;
+		align-items:center;
+		text-shadow: #076b56 2px 2px 2px;
+}
+.profile-pic
+{
+		border-radius: 50%;
+		height:200px;
+		width:200px;
+		box-shadow: #096d58 2px 5px 5px;
+}
+
+.linkh{
+	color: #ecfdf9;
+}
+
+.content
+{
+	 margin: 40px;
+	 
+}
+
+body
+{
+	margin: 0;
+}
